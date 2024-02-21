@@ -30,7 +30,9 @@ imdb_id: The title ID on IMDB.
 imdb_score: Score on IMDB.
 
 imdb_votes: Votes on IMDB.
+
 tmdb_popularity: Popularity on TMDB.
+
 tmdb_score: Score on TMDB.
 
 Conducting Exploratory data analysis to find interesting insights.
